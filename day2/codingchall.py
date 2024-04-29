@@ -1,0 +1,6 @@
+# two_digit_num=input("enter a number")
+# first_digit=int(two_digit_num[0])
+# print(first_digit)
+# print(type(int(5/2)))
+# print(4//3)
+print(3*3+3/3-3)
