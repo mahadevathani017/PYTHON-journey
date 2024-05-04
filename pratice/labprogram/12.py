@@ -30,7 +30,7 @@ def srp(t,x,y,size,depth,cahnge_depth):
 t=turtle.Turtle()
 t.speed(0) 
 
-change_depth=0
+change_depth=1
 
 srp(t,-200,-200,300,4,change_depth)
 
